@@ -1,0 +1,26 @@
+
+Basic documentaion about Augmented Reality:
+
+[1] http://www.howstuffworks.com/augmented-reality.htm
+[2]http://www.sg.hu/cikkek/16493/a_virtualis_valosag_jelentese
+[3]http://www.enc.hu/1enciklopedia/fogalmi/inf/virtualis_valosag.htm
+[4]http://codeguide.hu/2013/01/13/kiterjesztett-valosag-alapok/
+[5]http://en.wikipedia.org/wiki/Augmented_reality
+[6]http://www.mediapiac.com/digitalis-lap/2010-11-12-szam/Augmented-reality/750/
+
+
+
+Online Panoramic View Generator:
+http://www.udeuschle.selfhost.pro/panoramas/makepanoramas_en.htm
+
+Similar Online Panaromaic View Generator
+http://www.heywhatsthat.com/
+
+Some technical information about Elevation Profile
+http://www.heywhatsthat.com/techfaq.html
+
+HGT downloads:
+http://www.viewfinderpanoramas.org/dem3.html
+
+Online GeoCoordinate Converter:
+http://geographiclib.sourceforge.net/cgi-bin/GeoConvert
